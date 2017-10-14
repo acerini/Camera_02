@@ -40,7 +40,7 @@ Add a git repo to your OF folder, if one isn't there already
 1. Commit files
 1. Push to github
 1. Fork this assignment repsitory
-1. Update links.md with your repository link, this can be found clicking the "clone or download" button on the webpage of the repository you are linking in (your project)
+1. Update links.md with your repository link, this can be found clicking the "clone or download" button on the webpage of the repository you are linking in (your project) Please specify the correct branch from your repository.
 1. Make pull request
 
 #### 4.5 For those interested, (not required)
