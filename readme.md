@@ -1,6 +1,6 @@
 ## Camera
 
-### Due Date : 27 October
+### Due Date : 31 October
 
 ### Goals:
 
