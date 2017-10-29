@@ -7,4 +7,6 @@ Shawn Lawson    https://github.com/shawnlawson/EV9D9
 
 Yihao Zhu       https://github.com/syeswr/ArtHW2.git
 
+Emily Lockwood  https://github.com/lockwe/Koi-Pond
+
 ----
