@@ -11,6 +11,8 @@ Jazmyn Borman   https://github.com/JSBorman/SimonSaysKinect
 
 Bohan Chen https://github.com/bohanchen/FaceTracking
 
+Curtis Falkingham https://github.com/soundforascene/KinectVis
+
 Alex Fig  https://github.com/figgyfunk/waterBending.git
 
 Amanda Howanice https://github.com/howana/assignment-2.git
@@ -22,4 +24,3 @@ Emily Lockwood  https://github.com/lockwe/Koi-Pond
 John Noonan   https://github.com/JohnENoonan/DrawTogether
 
 Yihao Zhu       https://github.com/syeswr/ArtHW2.git
-
