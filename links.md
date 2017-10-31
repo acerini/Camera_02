@@ -22,6 +22,8 @@ Andie Labgold   https://github.com/alabgold/scaredOfTheDark/tree/master
 
 Jessie Liao     https://github.com/JessieLiao/Smashing_Pumpkins
 
+Zeana Llamas    https://github.com/zllamas/asteroids
+
 Emily Lockwood  https://github.com/lockwe/Koi-Pond
 
 John Noonan   https://github.com/JohnENoonan/DrawTogether
