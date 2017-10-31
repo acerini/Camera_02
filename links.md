@@ -16,6 +16,8 @@ Alex Fig  https://github.com/figgyfunk/waterBending.git
 
 Amanda Howanice https://github.com/howana/assignment-2.git
 
+Maddie Kettler  https://github.com/maddiekettler/bubbleFantasy.git
+
 Andie Labgold   https://github.com/alabgold/scaredOfTheDark/tree/master
 
 Jessie Liao     https://github.com/JessieLiao/Smashing_Pumpkins
