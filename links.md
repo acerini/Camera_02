@@ -8,6 +8,8 @@ Shawn Lawson    https://github.com/shawnlawson/EV9D9
 
 Jazmyn Borman   https://github.com/JSBorman/SimonSaysKinect
 
+Arielle Cerini https://github.com/acerini/Chip_Robot
+
 Bohan Chen https://github.com/bohanchen/FaceTracking
 
 Curtis Falkingham https://github.com/soundforascene/KinectVis
