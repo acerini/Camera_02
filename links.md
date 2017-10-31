@@ -13,6 +13,9 @@ Andie Labgold   https://github.com/alabgold/scaredOfTheDark/tree/master
 
 Emily Lockwood  https://github.com/lockwe/Koi-Pond
 
+Bohan Chen https://github.com/bohanchen/FaceTracking
+
 Amanda Howanice https://github.com/howana/assignment-2.git
 
 Yihao Zhu       https://github.com/syeswr/ArtHW2.git
+
