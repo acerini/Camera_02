@@ -24,4 +24,7 @@ Emily Lockwood  https://github.com/lockwe/Koi-Pond
 
 John Noonan   https://github.com/JohnENoonan/DrawTogether
 
+Uyen Uong 		https://github.com/uyenuong/ACI_Assignment2
+
 Yihao Zhu       https://github.com/syeswr/ArtHW2.git
+
