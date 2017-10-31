@@ -30,3 +30,4 @@ Uyen Uong 		https://github.com/uyenuong/ACI_Assignment2
 
 Yihao Zhu       https://github.com/syeswr/ArtHW2.git
 
+Omer Osman https://github.com/omerosman/osmano_Camera
