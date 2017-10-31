@@ -9,4 +9,5 @@ Yihao Zhu       https://github.com/syeswr/ArtHW2.git
 
 Emily Lockwood  https://github.com/lockwe/Koi-Pond
 
+Amanda Howanice https://github.com/howana/assignment-2.git
 ----
