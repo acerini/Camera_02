@@ -22,12 +22,16 @@ Andie Labgold   https://github.com/alabgold/scaredOfTheDark/tree/master
 
 Jessie Liao     https://github.com/JessieLiao/Smashing_Pumpkins
 
+Zeana Llamas    https://github.com/zllamas/asteroids
+
 Emily Lockwood  https://github.com/lockwe/Koi-Pond
 
 John Noonan   https://github.com/JohnENoonan/DrawTogether
+
+Omer Osman https://github.com/omerosman/osmano_Camera
 
 Uyen Uong 		https://github.com/uyenuong/ACI_Assignment2
 
 Yihao Zhu       https://github.com/syeswr/ArtHW2.git
 
-Omer Osman https://github.com/omerosman/osmano_Camera
+Andrew Aquino   https://github.com/dawneraq/heremin
