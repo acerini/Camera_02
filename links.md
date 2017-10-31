@@ -11,6 +11,8 @@ Alex Fig  https://github.com/figgyfunk/waterBending.git
 
 Andie Labgold   https://github.com/alabgold/scaredOfTheDark/tree/master
 
+Zeana Llamas    https://github.com/zllamas/asteroids
+
 Emily Lockwood  https://github.com/lockwe/Koi-Pond
 
 Yihao Zhu       https://github.com/syeswr/ArtHW2.git
