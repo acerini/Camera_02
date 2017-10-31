@@ -9,4 +9,6 @@ Yihao Zhu       https://github.com/syeswr/ArtHW2.git
 
 Emily Lockwood  https://github.com/lockwe/Koi-Pond
 
+Curtis Falkingham https://github.com/soundforascene/KinectVis
+
 ----
