@@ -13,6 +13,7 @@ Liliana Campuzano https://github.com/MystG/Camera_Work_for_Class
 Arielle Cerini https://github.com/acerini/Chip_Robot
 
 Bohan Chen https://github.com/bohanchen/FaceTracking
+Bohan Chen (Facetracking Revision) https://github.com/bohanchen/FaceTracking2
 
 Curtis Falkingham https://github.com/soundforascene/KinectVis
 
