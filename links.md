@@ -32,7 +32,7 @@ Emily Lockwood  https://github.com/lockwe/Koi-Pond
 
 John Noonan   https://github.com/JohnENoonan/DrawTogether
 
-Omer Osman https://github.com/omerosman/osmano_Camera
+Omer Osman https://github.com/omerosman/Camera_Updated.git
 
 Uyen Uong 		https://github.com/uyenuong/ACI_Assignment2
 
