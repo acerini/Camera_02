@@ -8,7 +8,7 @@ Shawn Lawson    https://github.com/shawnlawson/EV9D9
 
 Jazmyn Borman   https://github.com/JSBorman/SimonSaysKinect
 
-Arielle Cerini https://github.com/acerini/Chip_Robot
+Arielle Cerini https://github.com/acerini/Chip_2.0
 
 Bohan Chen https://github.com/bohanchen/FaceTracking
 
