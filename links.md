@@ -10,7 +10,7 @@ Jazmyn Borman   https://github.com/JSBorman/SimonSaysKinect
 
 Liliana Campuzano https://github.com/MystG/Camera_Work_for_Class
 
-Arielle Cerini https://github.com/acerini/Chip_Robot
+Arielle Cerini https://github.com/acerini/Chip_2.0
 
 Bohan Chen https://github.com/bohanchen/FaceTracking
 Bohan Chen (Facetracking Revision) https://github.com/bohanchen/FaceTracking2
